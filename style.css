@@ -24,7 +24,7 @@ table.bordasimples tr td { border:1px solid #FF0000;}
 #dois   {
           text-align: center;
 }
-a{
+/*a{
   width: 500px;
   text-align: justify;
 }
@@ -88,7 +88,4 @@ a{
 
 
 
-}
-body {
-  background-color: blue;
-}
+} /*
