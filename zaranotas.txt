@@ -1,0 +1,90 @@
+Lacradora, conceituada e fábrica de modelos famosas. Assim é a Zara Models, agencia de modelos fundada em 24/06/2009 por um grupo de amigos que se conheceram na faculdade de moda e localizada no Rio de Janeiro. Nossa empresa atua na capacitação e agenciamento de modelos para campanhas publicitárias, moda e ações promocionais atendendo ao público maior de 18 anos.
+Somos profissionais renomados da mídia e muito bem-sucedidos. Trabalhamos e também tornamos modelos famosas. Zara Models é conhecido como “A fábrica das modelos”.
+Nossos funcionários são os melhores do mercado de trabalho e muito bem selecionados.
+Diante destas revelações é que a Zara Models ainda visa a melhor qualificação de seus agenciados e, para isso, oferece workshops de vídeo, teatro e modelo.
+Gostou? Então faça parte deste universo, faça parte da Zara Models!
+
+
+
+
+
+
+<HTML!>
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+
+ <table>
+             
+             <tr>
+                        <td>   Nome Completo:      <td/>
+             <tr/>
+ 
+            
+             <tr> 
+                       <td>  Endereço:                   <td/>
+             <tr/>
+
+ 
+             <tr>        
+                       <td>  Telefone:                    <td/>   
+             <tr/>
+
+            
+             <tr>  
+                       <td>  E-mail:                        <td/>
+             <tr/>
+
+            
+             <tr>  
+                      <td> Interesses:                     <td/>
+             <tr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <ul id="barra">
+				    <li> <a href="ZaraModels.html">Início</a></li>
+				    <li> | </li>
+				    <li> <a href="sobre a moda e pá">Nosso Trabalho</a> </li>
+				    <li> | </li>
+				    <li> <a href="nossos perfis">Nos conheça</a> </li>
+				    <li> | </li>
+				    <li> <a href="fotos">Galeria</a> </li>
+				    <li> | </li>
+
+				  </ul>
