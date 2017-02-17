@@ -56,6 +56,17 @@
   background-color:#DA70D6;
   border: 2px solid #000000;
 }
+
+esquerda {
+  padding: 20px;
+  width: 20%;
+  margin: 25px;
+  vertical-align: top;
+}
+
+#esquerda ul li {
+  margin-top: 25px;
+}
 #left {
   font-size: 14pt;
   margin-left: center;
