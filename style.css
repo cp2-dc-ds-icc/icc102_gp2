@@ -61,5 +61,27 @@
   background-color: #33CCFF;}
 .table:hover {
   background-color: #66FFFF;
+  padding: 0px
 }
- }
+
+#rodapepr {
+  width: 100%;
+  border: 2px solid #000000;
+  overflow: hidden;
+  background-color:#ddddee;
+  padding: 20px;
+}
+
+#rodape1 {
+  background-color: #ddddee;
+  float:left;
+  width: 50%;
+    padding: 0px;
+
+}
+#rodape2 {
+  background-color: #ddddee;
+  float:left;
+  width: 50%;
+  padding: 0px;
+}
