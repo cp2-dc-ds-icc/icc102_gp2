@@ -57,6 +57,18 @@
   border: 2px solid #000000;
 }
 
+#C2 {
+  font-size: 16pt;
+  margin-left: center;
+  margin-right: center;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  background-color:#70DB93;
+  border: 2px solid #000000;
+  padding: 0px;
+}
+
 .table { border: 2px solid #000000;
   background-color: #33CCFF;}
 .table:hover {
